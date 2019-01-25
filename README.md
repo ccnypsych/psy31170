@@ -16,27 +16,10 @@ This course surveys programming techniques for Psychology research. Students wil
 
 Students are expected to demonstrate their mastery of these topics by executing a research project using data from a domain of Psychology research. They will submit a proposal, two status update short papers, and a final 15 minute presentation and scientific write up (or github pages website)
 
-## Required Material 
-* Text Books (free): 
-    + [How to think like a computer scientist](https://runestone.academy/runestone/static/thinkcspy/index.html) (TCS)
-        - Register for classroom: <insert class code>
-    + [Data Camp](https://www.datacamp.com/) (DC)
-        - Register for class: 
-* Text Editor: [VSCode](https://github.com/story645/install/blob/master/sections/vscode.md)
-* Programming Environment:
-    + [Anaconda Python 3.7](https://github.com/story645/install/blob/master/sections/python.md)
-    + [Git](https://github.com/story645/install/blob/master/sections/git.md)
-* Accounts (free level):
-    + [Github](https://github.com/)
-
-Please let me know if there's an issue (technical or personal) with registering for these accounts.
-
 ## Grading
-
 | % |  | notes: 
 | ------------- | ----------- |-----------|
-| 15 | Readings, Discussion, & [Piazza](
-piazza.com/ccny.cuny/spring2019/psy31170) | Readings grading measured by TCS/DC points|
+| 15 | Readings, Discussion, & [Piazza](piazza.com/ccny.cuny/spring2019/psy31170) | Readings grading measured by TCS/DC points|
 | 45 | Homework | HW 1: 5 pts, HW 2-5: 10 pts each |
 | 40 | [Final Project](final_project.md) | Proposal: 5 pts, Update 1: 5pts, Update 2: 10 pts, Final: 20 pts 
 
@@ -64,6 +47,21 @@ The schedule is subject to change.
 
 ### Extra Credit ###
 The course material is at https://github.com/ccnypsych/psy31170/. Earn extra credit by filing an issue or pull request. The issue/PR can flag/correct an error in the course material, suggest an addition to the course material, or otherwise contribute to the course material (I also like coding samples). 
+
+## Required Material 
+* Text Books (free): 
+    + [How to think like a computer scientist](https://runestone.academy/runestone/static/thinkcspy/index.html) (TCS)
+        - Register for classroom: <insert class code>
+    + [Data Camp](https://www.datacamp.com/) (DC)
+        - Register for class: 
+* Text Editor: [VSCode](https://github.com/story645/install/blob/master/sections/vscode.md)
+* Programming Environment:
+    + [Anaconda Python 3.7](https://github.com/story645/install/blob/master/sections/python.md)
+    + [Git](https://github.com/story645/install/blob/master/sections/git.md)
+* Accounts (free level):
+    + [Github](https://github.com/)
+
+Please let me know if there's an issue (technical or personal) with registering for these accounts.
 
 ## Policies
 ### Email
