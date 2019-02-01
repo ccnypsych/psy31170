@@ -26,7 +26,7 @@ Students are expected to demonstrate their mastery of these topics by executing 
 ## Schedule
 | Week | Topics | Reading/Exercises | Homework Due |
 |------|--------|----------| ----------------------|
-| Jan 25th | Introduction to Github | [DC: Introduction to Github for Data Science](https://campus.datacamp.com/courses/introduction-to-git-for-data-science/basic-workflow?ex=1) | Submitting Assignment Via Github (markdown page Explaining my interests)|
+| Jan 25th | Introduction to Github | (Git and github in plain English)[https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english]| Submitting Assignment Via Github (markdown page Explaining my interests)|
 | Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5](http://interactivepython.org/courselib/static/thinkcspy/GeneralIntro/toctree.html), [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
 | Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7, 8](http://interactivepython.org/courselib/static/thinkcspy/PythonModules/toctree.html) | |
 | Feb 15 | Data Management: Objects, Strings|[TCS: Chapters: 16, 9](http://interactivepython.org/courselib/static/thinkcspy/Strings/toctree.html) |  |
@@ -51,7 +51,7 @@ The course material is at https://github.com/ccnypsych/psy31170/. Earn extra cre
 ## Required Material 
 * Text Books (free): 
     + [How to think like a computer scientist](https://runestone.academy/runestone/static/thinkcspy/index.html) (TCS)
-        - Register for classroom: <insert class code>
+        - Register for classroom: psych31170
     + [Data Camp](https://www.datacamp.com/) (DC)
         - Register for class: 
 * Text Editor: [VSCode](https://github.com/story645/install/blob/master/sections/vscode.md)
