@@ -39,11 +39,12 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | Mar 29 | Spatial Analysis (GIS) |||
 | April 5 | Natural Language Processing |||
 | April 12 | Machine Learning || HW 4: Data Analysis 2: domain specific |
-| April 19-28 | Spring Recess |
-| May 3 | Project Lab|||HW 5: Machine Learning | Project Update 2 |
-| May 10 | Creating a website using github|[Creating Github Pages Using Github Desktop](https://services.github.com/on-demand/github-desktop/)| |
-| May 15 - May 22 | Final Examinations (Project Presentations) | 
-| May 22 | End of Spring Term (Final Project Due) |
+| April 19-28 | Spring Recess ||                                        |
+| May 3 | Project Lab|| HW 5: Machine Learning/Project Update 2 |
+| May 10 | Creating a website using github|[Creating Github Pages Using Github Desktop](https://services.github.com/on-demand/github-desktop/)| ||
+| May 15 - May 22 | Final Examinations (Project Presentations) | ||
+| May 22 | End of Spring Term (Final Project Due) |||
+
 The schedule is subject to change. 
 
 ### Extra Credit ###
