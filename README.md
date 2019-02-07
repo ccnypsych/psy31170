@@ -3,7 +3,7 @@ Syllabus
 ## Contact/Office Hours
 
 * haizenman@ccny.cuny.edu
-* Wed 12:00-2:00, Thursday 12:00-2:00
+* Tuesday 12:00-2:00, Thursday 12:00-2:00
 * (also available by appointment)
 * NAC 7/311
 
