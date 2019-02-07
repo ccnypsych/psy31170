@@ -31,9 +31,9 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5](http://interactivepython.org/courselib/static/thinkcspy/GeneralIntro/toctree.html), [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
 | Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7, 8](http://interactivepython.org/courselib/static/thinkcspy/PythonModules/toctree.html) | |
 | Feb 15 | Data Management: Objects, Strings|[TCS: Chapters: 16, 9](http://interactivepython.org/courselib/static/thinkcspy/Strings/toctree.html) |  |
-| Feb 22 | Lists, Dicts, Files, and Complex data types | [TCS: Chapters 10, 11, 12](http://interactivepython.org/courselib/static/thinkcspy/Strings/toctree.html) | HW 2: Data Cleaning  | 
-| Mar 1| Exploratory Data Analysis: Statistics & Visualization| [DC: Introduction to Python For Data Science] | Project Proposal | 
-| Mar 8 | Exploratory Data Analysis: Statistics & Visualization||  |
+| Feb 22 | Lists, Dicts, Files, and Complex data types | [TCS: Chapters 10, 11, 12](http://interactivepython.org/courselib/static/thinkcspy/Strings/toctree.html) | | 
+| Mar 1| Exploratory Data Analysis: Statistics & Visualization| [DC: Introduction to Python For Data Science] |  HW 2: Data Cleaning | 
+| Mar 8 | Exploratory Data Analysis: Statistics & Visualization||  Project Proposal |
 | Mar 15 | APIs: Using data from the internet | | HW 3: Data Analysis|  
 | Mar 22 | Signal Processing & Time Series Analysis | | | Project Update 1|
 | Mar 29 | Spatial Analysis (GIS) |||
