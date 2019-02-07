@@ -27,7 +27,7 @@ Students are expected to demonstrate their mastery of these topics by executing 
 ## Schedule
 | Week | Topics | Reading/Exercises | Homework Due |
 |------|--------|----------| ----------------------|
-| Jan 25th | Introduction to Github | [Git and github in plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)| Submitting Assignment Via Github (markdown page Explaining my interests)|
+| Jan 25th | Introduction to Github | [Git and github in plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)| |
 | Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5](http://interactivepython.org/courselib/static/thinkcspy/GeneralIntro/toctree.html), [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
 | Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7, 8](http://interactivepython.org/courselib/static/thinkcspy/PythonModules/toctree.html) | |
 | Feb 15 | Data Management: Objects, Strings|[TCS: Chapters: 16, 9](http://interactivepython.org/courselib/static/thinkcspy/Strings/toctree.html) |  |
