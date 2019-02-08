@@ -18,7 +18,7 @@ This course surveys programming techniques for Psychology research. Students wil
 Students are expected to demonstrate their mastery of these topics by executing a research project using data from a domain of Psychology research. They will submit a proposal, two status update short papers, and a final 15 minute presentation and scientific write up (or github pages website)
 
 ## Grading
-| % |  | notes: 
+| Points |  | notes: 
 | ------------- | ----------- |-----------|
 | 15 | Readings, Discussion, & [Piazza](piazza.com/ccny.cuny/spring2019/psy31170) | Readings grading measured by TCS/DC points|
 | 45 | Homework | HW 1: 5 pts, HW 2-5: 10 pts each |
