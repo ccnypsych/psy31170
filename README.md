@@ -28,11 +28,11 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | Week | Topics | Reading/Exercises | Homework Due |
 |------|--------|----------| ----------------------|
 | Jan 25th | Introduction to Github | [Git and github in plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)| |
-| Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5](http://interactivepython.org/courselib/static/thinkcspy/GeneralIntro/toctree.html), [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
-| Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7, 8](http://interactivepython.org/courselib/static/thinkcspy/PythonModules/toctree.html) | |
-| Feb 15 | Data Management: Objects, Strings|[TCS: Chapters: 16, 9](http://interactivepython.org/courselib/static/thinkcspy/Strings/toctree.html) | Project Proposal |
-| Feb 22 | Lists, Dicts, Files, and Complex data types | [TCS: Chapters 10, 11, 12](http://interactivepython.org/courselib/static/thinkcspy/Strings/toctree.html) | | 
-| Mar 1| Exploratory Data Analysis: Statistics & Visualization| [DC: Introduction to Python For Data Science] |  HW 2: Data Cleaning | 
+| Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5], [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
+| Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7, 8] | |
+| Feb 15 | Data Management: Objects, Strings|[TCS: Chapters: 16, 9] | Project Proposal |
+| Feb 22 | Lists, Dicts, Files, and Complex data types | [TCS: Chapters 10, 11, 12]| | 
+| Mar 1| Exploratory Data Analysis: Statistics & Visualization| |  HW 2: Data Cleaning | 
 | Mar 8 | Exploratory Data Analysis: Statistics & Visualization||   |
 | Mar 15 | APIs: Using data from the internet | | HW 3: Data Analysis|  
 | Mar 22 | Signal Processing & Time Series Analysis | | | Project Update 1|
