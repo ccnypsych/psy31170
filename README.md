@@ -29,7 +29,7 @@ Students are expected to demonstrate their mastery of these topics by executing 
 |------|--------|----------| ----------------------|
 | Jan 25th | Introduction to Github | [Git and github in plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)| |
 | Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5], [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
-| Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7] | |
+| Feb 8 | Functions, Selection| [TCS: Chapters 6, 7] | |
 | Feb 15 | Lists, Dicts, Iteration |[TCS: Chapters: 8, 10, 12] | Project Proposal |
 | Feb 22 |Objects, Strings, Files and Complex data types | [TCS: Chapters 9, 11, 16]| | 
 | Mar 1| Exploratory Data Analysis: Statistics & Visualization| |  HW 2: Data Cleaning | 
