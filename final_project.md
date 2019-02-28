@@ -40,8 +40,7 @@ Submit an update that includes:
 4. Plan for meeting missed and outstanding milestones/delverables
 5. If necessary, revision of goals/objectives/scope of the project. 
 
-__Update 2__
-
+## Update 2
 Submit an update that includes:
 1. Summary of completed milestones, including contribution of each team member
 2. Snapshots/demos/preliminary versions of completed deliverables
@@ -50,7 +49,7 @@ Submit an update that includes:
 5. If necessary, revision of goals/objectives/scope of the project. 
 6. Very rough draft of final wrap up and presentation
 
-__Final Project and Presentation__
+## Final Project and Presentation
 
 The final submission will be a report/github page and an oral presentation that presents the project in scientific form, meaning that it will roughly have the following information:
 
