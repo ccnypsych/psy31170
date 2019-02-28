@@ -54,19 +54,19 @@ Submit an update that includes:
 The final submission will be a report/github page and an oral presentation that presents the project in scientific form, meaning that it will roughly have the following information:
 
 1. Introduction/Background/Audience:
-  * What is the project? 
-  * Who is it for? 
-  * Why is it being undertaken?
+    * What is the project? 
+    * Who is it for? 
+    * Why is it being undertaken?
 2. Materials & Methods:
-  * How was the project implemented? 
-  * What data/libraries/tools/analysis techniques were used? 
-  * Why were they chosen?  
+    * How was the project implemented? 
+    * What data/libraries/tools/analysis techniques were used? 
+    * Why were they chosen?  
 3. Results & Discussions
- * Were the objectives met? How?
- * What were the findings of the project?
- * What worked?
- * What went wrong?
+    * Were the objectives met? How?
+    * What were the findings of the project?
+    * What worked?
+    * What went wrong?
 4. Conclusions:
-* What was learned?
-* Did the project generate new questions? ideas? 
-* Is there a next step?
+    * What was learned?
+    * Did the project generate new questions? ideas? 
+    * Is there a next step?
