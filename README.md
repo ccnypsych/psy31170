@@ -32,11 +32,11 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7] | |
 | Feb 15 | Lists, Dicts, Iteration |[TCS: Chapters: 8, 10, 12] | |
 | Feb 22 |Objects, Strings, Files and Complex data types | [TCS: Chapters 9, 11, 16]| Project Proposal | 
-| Mar 1| Exploratory Data Analysis: Statistics & Visualization| |  HW 2: Data Cleaning | 
-| Mar 8 | Exploratory Data Analysis: Statistics & Visualization||   |
-| Mar 15 | APIs: Using data from the internet | | HW 3: Data Analysis|  
-| Mar 22 | Signal Processing & Time Series Analysis | | | Project Update 1|
-| Mar 29 | Spatial Analysis (GIS) |||
+| Mar 1| Exploratory Data Analysis: Statistics & Visualization| |  | 
+| Mar 8 | Exploratory Data Analysis: Statistics & Visualization|| HW 2: Data Cleaning & Simple Stats  |
+| Mar 15 | APIs: Using data from the internet | ||  
+| Mar 22 | Signal Processing & Time Series Analysis | | | HW 3: Data Analysis |
+| Mar 29 | Spatial Analysis (GIS) ||Project Update 1|
 | April 5 | Natural Language Processing |||
 | April 12 | Machine Learning || HW 4: Data Analysis 2: domain specific |
 | April 19-28 | Spring Recess ||                                        |
