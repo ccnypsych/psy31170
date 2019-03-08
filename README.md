@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/ccnypsych/psy31170.svg)](https://gitter.im/ccnypsych/psy31170?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Syllabus
 ==================
 ## Contact/Office Hours
