@@ -36,7 +36,7 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | Feb 22 |Objects, Strings, Files and Complex data types | [TCS: Chapters 9, 11, 16]| Project Proposal | 
 | Mar 1| Exploratory Data Analysis: Statistics & Visualization| |  | 
 | Mar 8 | Exploratory Data Analysis: Statistics & Visualization| [Visualization Zoo](https://queue.acm.org/detail.cfm?id=1805128)|  |
-| Mar 15 | Apps + APIs| | HW 2: Data Cleaning|  
+| Mar 15 | Apps + APIs| [Apps: How I Explained REST](http://www.looah.com/source/view/2284), [What is an API and why should I use one?](https://medium.com/@TebbaVonMathenstien/what-is-an-api-and-why-should-i-use-one-863c3365726b)| HW 2: Data Cleaning|  
 | Mar 22 | Natural Language Processing| | | Project Proposal (resubmit)|
 | Mar 29 | Spatial Analysis (GIS) || HW 3: My Little App |
 | April 5 |  Signal Processing & Time Series Analysis |||
