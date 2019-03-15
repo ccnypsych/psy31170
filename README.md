@@ -22,7 +22,7 @@ Students are expected to demonstrate their mastery of these topics by executing 
 ## Grading
 | Points |  | notes: 
 | ------------- | ----------- |-----------|
-| 15 | Readings, Discussion, & [Piazza](piazza.com/ccny.cuny/spring2019/psy31170) | Readings grading measured by TCS/DC points|
+| 15 | Readings & Discussion| Readings grading measured by TCS/DC points + gitter + piazza + assignments|
 | 45 | Homework | HW 1: 5 pts, HW 2-5: 10 pts each |
 | 40 | [Final Project](final_project.md) | Proposal: 5 pts, Update 1: 5pts, Update 2: 10 pts, Final: 20 pts 
 
@@ -78,6 +78,7 @@ Unless I tell you otherwise, email should only be used to set up an in person me
 * Emailed questions and questions not in that format may be ignored. 
 
 ### Attendence 
+* Attendance is mandatory. Can miss 2 unexcused. 
 * Missing the final project presentation day (unexcused) will result in an F for the course.
 * Send an email at least two weeks in advance about excused absences or exam conflicts.
 
