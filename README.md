@@ -31,10 +31,10 @@ Students are expected to demonstrate their mastery of these topics by executing 
 |------|--------|----------| ----------------------|
 | Jan 25th | Introduction to Github | [Git and github in plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)| |
 | Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5], [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
-| Feb 8 | Functions, Selection, Iteration| [TCS: Chapters 6, 7] | |
-| Feb 15 | Lists, Dicts, Iteration |[TCS: Chapters: 8, 10, 12] | |
-| Feb 22 |Objects, Strings, Files and Complex data types | [TCS: Chapters 9, 11, 16]| Project Proposal | 
-| Mar 1| Exploratory Data Analysis: Statistics & Visualization| |  | 
+| Feb 8 | Functions, Selection, Iteration| TCS: Chapters 6, 7 | |
+| Feb 15 | Lists, Dicts, Iteration |TCS: Chapters: 8, 10, 12 | |
+| Feb 22 |Objects, Strings, Files and Complex data types | TCS: Chapters 9, 11, 16| Project Proposal | 
+| Mar 1| Exploratory Data Analysis: Statistics & Visualization |  [Scipy Lecture Notes-stop at 3.2](https://scipy-lectures.org/)|  | 
 | Mar 8 | Exploratory Data Analysis: Statistics & Visualization| [Visualization Zoo](https://queue.acm.org/detail.cfm?id=1805128)|  |
 | Mar 15 | Apps + APIs| [Apps: How I Explained REST](http://www.looah.com/source/view/2284), [What is an API and why should I use one?](https://medium.com/@TebbaVonMathenstien/what-is-an-api-and-why-should-i-use-one-863c3365726b)| HW 2: Data Cleaning|  
 | Mar 22 | Natural Language Processing| | | Project Proposal (resubmit)|
