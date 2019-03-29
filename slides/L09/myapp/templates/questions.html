@@ -1,0 +1,13 @@
+<h1>Psych 31170 Quiz</h1>
+<form action='/grade' method='POST'>
+    <ol>
+        {% for q in questions %}
+            <li>{{q['question']}}</li>
+            {% for o in q['options'] %}
+                <input type='radio' value='{{o}}' name='{{q['qid']}}' />{{o}}
+            {% endfor %}
+        {% endfor %}
+    </ol>
+    <input type="submit" value="submit" />
+</form>
+

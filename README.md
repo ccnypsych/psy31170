@@ -37,10 +37,10 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | Mar 1| Exploratory Data Analysis: Statistics & Visualization |  [Scipy Lecture Notes-stop at 3.2](https://scipy-lectures.org/)|  | 
 | Mar 8 | Exploratory Data Analysis: Statistics & Visualization| [Visualization Zoo](https://queue.acm.org/detail.cfm?id=1805128)|  |
 | Mar 15 | Apps + APIs| [Apps: How I Explained REST](http://www.looah.com/source/view/2284), [What is an API and why should I use one?](https://medium.com/@TebbaVonMathenstien/what-is-an-api-and-why-should-i-use-one-863c3365726b)| HW 2: Data Cleaning|  
-| Mar 22 | Natural Language Processing| | | Project Proposal (resubmit)|
-| Mar 29 | Spatial Analysis (GIS) || HW 3: Data Analysis |
-| April 5 |  Signal Processing & Time Series Analysis |||
-| April 12 | Machine Learning ||HW 4: My Little App/Project Update 1|
+| Mar 22 | Apps + APIs| | | Project Proposal (resubmit)|
+| Mar 29 |Signal Processing & Time Series Analysis |[Python in Neuroscience Tutorials](https://github.com/btel/python-in-neuroscience-tutorials)| HW 3: Data Analysis |
+| April 5 |  Machine Learning |||
+| April 12 |TBD: Natural Language Processing or Spatial Analysis (GIS)  ||HW 4: Magic 8 Ball App, Project Update 1|
 | April 19-28 | Spring Recess ||                                        |
 | May 3 | Project Lab|| HW 5: Machine Learning/Project Update 2 |
 | May 10 | Creating a website using github|[Creating Github Pages Using Github Desktop](https://services.github.com/on-demand/github-desktop/)| ||
@@ -56,8 +56,6 @@ The course material is at https://github.com/ccnypsych/psy31170/. Earn extra cre
 * Text Books (free): 
     + [How to think like a computer scientist](https://runestone.academy/runestone/static/thinkcspy/index.html) (TCS)
         - Register for classroom: psych31170
-    + [Data Camp](https://www.datacamp.com/) (DC)
-        - Register for class: 
 * Text Editor: [VSCode](https://github.com/story645/install/blob/master/sections/vscode.md)
 * Programming Environment:
     + [Anaconda Python 3.7](https://github.com/story645/install/blob/master/sections/python.md)
@@ -69,10 +67,12 @@ Please let me know if there's an issue (technical or personal) with registering 
 
 ## Policies
 ### Email
-Unless I tell you otherwise, email should only be used to set up an in person meeting, inform me about needed accommodations, or discuss confidential material like grades.  Coursework related communications, such as questions on the lecture or homework, should be done through piazza, which allows anonymous posting. If you are uncomfortable with this policy, please speak to me.
+Unless I tell you otherwise, email should be used to set up an in person meeting, inform me about accommodations, or discuss confidential material like grades.
+
+Coursework related communications, such as questions on the lecture or homework, should be done through piazza, which allows anonymous posting, or gitter. If you are uncomfortable with this policy, please speak to me.
 
 ### Homework
-* Homework must be submitted via github classroom. 
+* Homework must be submitted via github classroom unless other instructions are provided. 
 * Homework submitted through other methods without prior approval  will not be graded.
 * Questions about the homework should be asked on [piazza]()) using the provided [format](hwq_fmt.md). 
 * Emailed questions and questions not in that format may be ignored. 
@@ -83,7 +83,8 @@ Unless I tell you otherwise, email should only be used to set up an in person me
 * Send an email at least two weeks in advance about excused absences or exam conflicts.
 
 ### Accessibility 
-* Have the accessibility center provide documentation for any accommodations ASAP
+* Have the [accessibility center](https://www.ccny.cuny.edu/accessability) provide documentation for accommodations ASAP. They're at NAC 1/218, disabilityservices@ccny.cuny.edu
+
 * Notify me that they've left documentation in my mailbox/etc.
 * Set up an appointment to discuss other accommodations. 
 
