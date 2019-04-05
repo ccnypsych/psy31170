@@ -27,7 +27,7 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | 40 | [Final Project](final_project.md) | Proposal: 5 pts, Update 1: 5pts, Update 2: 10 pts, Final: 20 pts 
 
 ## Schedule
-| Week | Topics | Reading/Exercises | Homework Due |
+| Week | Topics | Reading/Exercises | Homework Posted |
 |------|--------|----------| ----------------------|
 | Jan 25th | Introduction to Github | [Git and github in plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)| |
 | Feb 1 | Variables, Expressions, Statements, Modules | [TCS: Chapters 1, 2, 5], [Jupyter Guide](https://github.com/story645/install/blob/master/sections/jupyter.md)| HW 1: Submitting Homework Using Github | 
@@ -38,11 +38,11 @@ Students are expected to demonstrate their mastery of these topics by executing 
 | Mar 8 | Exploratory Data Analysis: Statistics & Visualization| [Visualization Zoo](https://queue.acm.org/detail.cfm?id=1805128)|  |
 | Mar 15 | Apps + APIs| [Apps: How I Explained REST](http://www.looah.com/source/view/2284), [What is an API and why should I use one?](https://medium.com/@TebbaVonMathenstien/what-is-an-api-and-why-should-i-use-one-863c3365726b)| HW 2: Data Cleaning|  
 | Mar 22 | Apps + APIs| | | Project Proposal (resubmit)|
-| Mar 29 |Signal Processing & Time Series Analysis |[Python in Neuroscience Tutorials](https://github.com/btel/python-in-neuroscience-tutorials)| HW 3: Data Analysis |
-| April 5 |  Machine Learning |||
-| April 12 |TBD: Natural Language Processing or Spatial Analysis (GIS)  ||HW 4: Magic 8 Ball App, Project Update 1|
-| April 19-28 | Spring Recess ||                                        |
-| May 3 | Project Lab|| HW 5: Machine Learning/Project Update 2 |
+| Mar 29 |Signal Processing & Time Series Analysis ||  |
+| April 5 |Visualization ||HW 3: Lets Make an App|
+| April 12 |TBD: Natural Language Processing or Spatial Analysis (GIS)  ||
+| April 19-28 | Spring Recess ||HW 4: Data Analysis, Project Update 1|                                        |
+| May 3 | Project Lab|| HW 5:TBD /Project Update 2 |
 | May 10 | Creating a website using github|[Creating Github Pages Using Github Desktop](https://services.github.com/on-demand/github-desktop/)| ||
 | May 15 - May 22 | Final Examinations (Project Presentations) | ||
 | May 22 | End of Spring Term (Final Project Due) |||
